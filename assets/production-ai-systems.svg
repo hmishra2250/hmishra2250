@@ -49,8 +49,8 @@
   </g>
 
   <g font-family="Geist Mono, SFMono-Regular, Consolas, monospace" font-size="12">
-    <rect x="910" y="33" width="234" height="42" rx="10" fill="#0A1515" stroke="#25483F"/>
-    <circle cx="934" cy="54" r="5" fill="#34D399"/>
-    <text x="951" y="58" fill="#B7C3CF">production constraints first</text>
+    <rect x="878" y="33" width="250" height="42" rx="10" fill="#0A1515" stroke="#25483F"/>
+    <circle cx="902" cy="54" r="5" fill="#34D399"/>
+    <text x="919" y="58" fill="#B7C3CF">production constraints first</text>
   </g>
 </svg>
