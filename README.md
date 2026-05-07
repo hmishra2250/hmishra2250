@@ -1,37 +1,32 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/production-ai-systems.svg">
-  <img src="./assets/production-ai-systems.svg" alt="Himadri Mishra, senior AI engineer building production AI systems" width="100%">
-</picture>
+# Production AI systems, not AI demos
 
-I build AI software where the impressive model behavior is wrapped in the boring parts that make it usable: explicit execution graphs, evals, retrieval, sandboxed analysis, observability, cost controls, and reviewable artifacts.
+I am Himadri Mishra, a senior AI engineer building agentic workflows, LLM systems, ML infrastructure, search, and computer vision products.
 
-<table>
-  <tr>
-    <td><strong>Agentic AI systems</strong><br>Research workflows that compressed report turnaround from days to under an hour.</td>
-    <td><strong>ML infrastructure</strong><br>Platform rescue work that cut infrastructure cost by an order of magnitude.</td>
-    <td><strong>Computer vision</strong><br>Production recognition systems improved from 93% to 98% accuracy.</td>
-  </tr>
-</table>
+> LLMs are one component. The hard part is execution, evaluation, recovery, cost, and artifacts that teams can trust.
 
-## Evaluate me quickly
+<img src="./assets/production-ai-systems.svg" alt="Production AI system loop: plan, DAG, sandbox, judge, artifact" width="100%">
 
-| Start with | Why it matters |
-| --- | --- |
-| [Agentic market research platform](https://www.himadri.dev/case-studies/agentic-market-research-platform) | DAG execution, sandboxed code, judge verification, charts, Deck IR, and PPTX automation. |
-| [ML infrastructure rescue](https://www.himadri.dev/case-studies/ml-infra-rescue) | Cost reduction, pod reduction, build-time improvements, and reliability boundaries. |
-| [Computer vision product systems](https://www.himadri.dev/case-studies/computer-vision-product-systems) | Real-time ML product work under device, latency, and UX constraints. |
-| [Interview me](https://www.himadri.dev/interview-me) | Source-grounded answers about architecture, tradeoffs, risks, and operating style. |
+## What to click first
 
-```txt
-workflow -> explicit DAG -> sandboxed analysis -> judge checks -> charts -> Deck IR -> output
-```
+- **Flagship AI systems case study:** [Agentic market research platform](https://www.himadri.dev/case-studies/agentic-market-research-platform), DAG execution, sandboxed code, judge verification, charts, Deck IR, and PPTX automation.
+- **Platform depth:** [ML infrastructure rescue](https://www.himadri.dev/case-studies/ml-infra-rescue), cost reduction, pod reduction, faster builds, and reliability boundaries.
+- **ML product depth:** [Computer vision product systems](https://www.himadri.dev/case-studies/computer-vision-product-systems), real-time CV under device, latency, and UX constraints.
+- **Interview surface:** [Interview me](https://www.himadri.dev/interview-me), source-grounded answers on architecture, tradeoffs, operating style, and risks.
 
-## Current focus
+## Selected public work
 
-- Senior AI engineering and AI platform engineering
-- LLM systems with retrieval, evals, safe fallbacks, and cost-aware routing
-- AI analytics products that turn messy data into inspectable charts, decks, and decisions
-- ML infrastructure, search, recommendations, computer vision, and low-level performance work
+- [`himadri.dev`](https://github.com/hmishra2250/himadri.dev), evidence-first portfolio for production AI systems work.
+- [`handwrite-font-maker`](https://github.com/hmishra2250/handwrite-font-maker), converts handwriting specimen sheets into installable fonts.
+- [`NTM-One-Shot-TF`](https://github.com/hmishra2250/NTM-One-Shot-TF), older one-shot learning implementation that still attracts ML interest.
+- [`Botnet-Detection-using-Machine-Learning`](https://github.com/hmishra2250/Botnet-Detection-using-Machine-Learning), older applied ML project with long-tail usage.
+
+## Engineering taste
+
+- Explicit execution graphs beat free-form agent chaos.
+- Artifact evals matter more than prompt evals alone.
+- Cost, latency, retries, and observability are product architecture.
+- Good AI products expose intermediate state without leaking private data.
+- Computer vision and infrastructure work keep my LLM systems grounded in real production constraints.
 
 ## Links
 
