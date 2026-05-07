@@ -1,45 +1,38 @@
-# Himadri Mishra
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/production-ai-systems.svg">
+  <img src="./assets/production-ai-systems.svg" alt="Himadri Mishra, senior AI engineer building production AI systems" width="100%">
+</picture>
 
-Senior AI Engineer building production-grade agentic systems across LLM orchestration, evals, AI analytics, ML infrastructure, search, and computer vision.
+I build AI software where the impressive model behavior is wrapped in the boring parts that make it usable: explicit execution graphs, evals, retrieval, sandboxed analysis, observability, cost controls, and reviewable artifacts.
 
-Built agentic research workflows that compressed report turnaround from days to under an hour.<br>
-Reduced ML infrastructure cost by an order of magnitude.<br>
-Improved production computer vision accuracy from 93% to 98%.
+<table>
+  <tr>
+    <td><strong>Agentic AI systems</strong><br>Research workflows that compressed report turnaround from days to under an hour.</td>
+    <td><strong>ML infrastructure</strong><br>Platform rescue work that cut infrastructure cost by an order of magnitude.</td>
+    <td><strong>Computer vision</strong><br>Production recognition systems improved from 93% to 98% accuracy.</td>
+  </tr>
+</table>
 
-## Start here
+## Evaluate me quickly
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-himadri.dev-111827?style=for-the-badge)](https://www.himadri.dev)
-[![Case Studies](https://img.shields.io/badge/Case_Studies-Production_AI-2563eb?style=for-the-badge)](https://www.himadri.dev/case-studies)
-[![Interview Me](https://img.shields.io/badge/Interview_Me-Source_Grounded-7c3aed?style=for-the-badge)](https://www.himadri.dev/interview-me)
-[![Resume](https://img.shields.io/badge/Resume-PDF-059669?style=for-the-badge)](https://www.himadri.dev/resume)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-hmishra2250-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hmishra2250/)
-
-## Systems I like building
+| Start with | Why it matters |
+| --- | --- |
+| [Agentic market research platform](https://www.himadri.dev/case-studies/agentic-market-research-platform) | DAG execution, sandboxed code, judge verification, charts, Deck IR, and PPTX automation. |
+| [ML infrastructure rescue](https://www.himadri.dev/case-studies/ml-infra-rescue) | Cost reduction, pod reduction, build-time improvements, and reliability boundaries. |
+| [Computer vision product systems](https://www.himadri.dev/case-studies/computer-vision-product-systems) | Real-time ML product work under device, latency, and UX constraints. |
+| [Interview me](https://www.himadri.dev/interview-me) | Source-grounded answers about architecture, tradeoffs, risks, and operating style. |
 
 ```txt
 workflow -> explicit DAG -> sandboxed analysis -> judge checks -> charts -> Deck IR -> output
 ```
 
-## Proof lanes
+## Current focus
 
-[![Agentic AI](https://img.shields.io/badge/Agentic_AI-DAGs_+_evals_+_Deck_IR-4f46e5?style=for-the-badge)](https://www.himadri.dev/case-studies/agentic-market-research-platform)
-[![ML Infra](https://img.shields.io/badge/ML_Infra-10x_cost_reduction-059669?style=for-the-badge)](https://www.himadri.dev/case-studies/ml-infra-rescue)
-[![Computer Vision](https://img.shields.io/badge/Computer_Vision-93%25_to_98%25_accuracy-b45309?style=for-the-badge)](https://www.himadri.dev/case-studies/computer-vision-product-systems)
-[![AR and Vision](https://img.shields.io/badge/AR_+_Vision-20%25_faster_ORB-0f766e?style=for-the-badge)](https://www.himadri.dev/case-studies/high-performance-ar-and-vision)
+- Senior AI engineering and AI platform engineering
+- LLM systems with retrieval, evals, safe fallbacks, and cost-aware routing
+- AI analytics products that turn messy data into inspectable charts, decks, and decisions
+- ML infrastructure, search, recommendations, computer vision, and low-level performance work
 
-## Core stack
+## Links
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5c3ee8?style=for-the-badge&logo=opencv&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285f4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Highcharts](https://img.shields.io/badge/Highcharts-2563eb?style=for-the-badge)
-
-## GitHub signal
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hmishra2250&theme=github_dark&hide_border=true&show_icons=true&include_all_commits=true)
+[Portfolio](https://www.himadri.dev) · [Case studies](https://www.himadri.dev/case-studies) · [Resume](https://www.himadri.dev/resume) · [LinkedIn](https://www.linkedin.com/in/hmishra2250/) · [Email](mailto:himadri.jobhunt@gmail.com)

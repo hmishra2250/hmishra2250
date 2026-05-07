@@ -1,0 +1,50 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Himadri Mishra, production AI systems</title>
+  <desc id="desc">A dark technical banner showing agentic AI, evaluation, infrastructure, and computer vision work.</desc>
+  <rect width="1200" height="420" rx="30" fill="#080B12"/>
+  <rect x="1" y="1" width="1198" height="418" rx="29" stroke="#293241"/>
+  <circle cx="1030" cy="72" r="150" fill="#1D4ED8" opacity="0.18"/>
+  <circle cx="106" cy="342" r="170" fill="#7C3AED" opacity="0.12"/>
+  <path d="M76 87H1124" stroke="#1F2937" stroke-width="1"/>
+  <path d="M76 333H1124" stroke="#1F2937" stroke-width="1"/>
+
+  <text x="76" y="64" fill="#94A3B8" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="17" letter-spacing="3.5">PRODUCTION AI SYSTEMS</text>
+  <text x="76" y="145" fill="#F8FAFC" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="58" font-weight="800">Himadri Mishra</text>
+  <text x="78" y="190" fill="#CBD5E1" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="24">Senior AI Engineer for agentic workflows, LLM systems, ML infra, and computer vision</text>
+
+  <g font-family="SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace" font-size="20">
+    <rect x="78" y="231" width="151" height="48" rx="14" fill="#111827" stroke="#374151"/>
+    <text x="103" y="263" fill="#A7F3D0">plan</text>
+    <path d="M239 255H282" stroke="#64748B" stroke-width="2"/>
+    <path d="M274 248L282 255L274 262" stroke="#64748B" stroke-width="2"/>
+
+    <rect x="292" y="231" width="151" height="48" rx="14" fill="#111827" stroke="#374151"/>
+    <text x="316" y="263" fill="#BFDBFE">DAG</text>
+    <path d="M453 255H496" stroke="#64748B" stroke-width="2"/>
+    <path d="M488 248L496 255L488 262" stroke="#64748B" stroke-width="2"/>
+
+    <rect x="506" y="231" width="151" height="48" rx="14" fill="#111827" stroke="#374151"/>
+    <text x="529" y="263" fill="#DDD6FE">sandbox</text>
+    <path d="M667 255H710" stroke="#64748B" stroke-width="2"/>
+    <path d="M702 248L710 255L702 262" stroke="#64748B" stroke-width="2"/>
+
+    <rect x="720" y="231" width="151" height="48" rx="14" fill="#111827" stroke="#374151"/>
+    <text x="744" y="263" fill="#FDE68A">judge</text>
+    <path d="M881 255H924" stroke="#64748B" stroke-width="2"/>
+    <path d="M916 248L924 255L916 262" stroke="#64748B" stroke-width="2"/>
+
+    <rect x="934" y="231" width="188" height="48" rx="14" fill="#111827" stroke="#374151"/>
+    <text x="959" y="263" fill="#FCA5A5">artifact</text>
+  </g>
+
+  <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="18" font-weight="700">
+    <rect x="76" y="357" width="214" height="38" rx="19" fill="#0F766E"/>
+    <text x="101" y="382" fill="#ECFDF5">days to under 1 hour</text>
+    <rect x="306" y="357" width="205" height="38" rx="19" fill="#1D4ED8"/>
+    <text x="333" y="382" fill="#EFF6FF">10x infra cost cut</text>
+    <rect x="527" y="357" width="194" height="38" rx="19" fill="#B45309"/>
+    <text x="554" y="382" fill="#FFF7ED">93% to 98% CV</text>
+    <rect x="737" y="357" width="222" height="38" rx="19" fill="#5B21B6"/>
+    <text x="764" y="382" fill="#F5F3FF">20% faster ORB</text>
+  </g>
+</svg>
