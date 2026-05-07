@@ -1,74 +1,45 @@
 # Himadri Mishra
 
-**Senior AI Engineer building production-grade agentic systems.**
+Senior AI Engineer building production-grade agentic systems across LLM orchestration, evals, AI analytics, ML infrastructure, search, and computer vision.
 
-I build AI software where LLMs are one component in a larger reliable system: orchestration, evals, retrieval, sandboxed analysis, observability, cost controls, and user-facing artifacts that teams can trust.
-
-<p>
-  <a href="https://www.himadri.dev"><strong>Portfolio</strong></a> ·
-  <a href="https://www.himadri.dev/case-studies"><strong>Case studies</strong></a> ·
-  <a href="https://www.himadri.dev/interview-me"><strong>Interview me</strong></a> ·
-  <a href="https://www.himadri.dev/resume"><strong>Resume</strong></a> ·
-  <a href="https://www.linkedin.com/in/hmishra2250/"><strong>LinkedIn</strong></a>
-</p>
-
-## What I work on
-
-```txt
-messy workflow -> explicit plan -> DAG execution -> sandboxed code -> judge checks ->
-reviewable charts -> artifact IR -> production output
-```
-
-I am strongest where AI products need more than a demo:
-
-- **Agentic workflows:** planning, state, retries, failure recovery, source cards, and task-level observability.
-- **LLM systems:** grounded answers, eval harnesses, cost-aware routing, prompt boundaries, and safe fallbacks.
-- **AI analytics products:** survey data normalization, generated analysis, verified insights, Highcharts, Deck IR, and PPTX automation.
-- **ML platforms:** search, recommendations, infra cost reduction, Kubernetes simplification, and reliability work.
-- **Computer vision:** production CV systems, real-time product constraints, and low-level performance work.
-
-## Evidence first
-
-| Proof point | System shape |
-| --- | --- |
-| Reduced AI report turnaround from days to under an hour | Agentic research workflow with DAG execution, code-backed analysis, judges, charts, and deck automation |
-| Reduced ML infrastructure cost by an order of magnitude | Platform rescue across workloads, pods, builds, and reliability boundaries |
-| Improved production CV accuracy from 93% to 98% | Real-world recognition system under device and usability constraints |
-| Built systems across LLMs, infra, search, recommendations, CV, and AR | Breadth across product AI and platform engineering, not only model demos |
+Built agentic research workflows that compressed report turnaround from days to under an hour.<br>
+Reduced ML infrastructure cost by an order of magnitude.<br>
+Improved production computer vision accuracy from 93% to 98%.
 
 ## Start here
 
-| If you want to evaluate | Open this |
-| --- | --- |
-| Production LLM and agentic systems judgment | [Agentic market research platform](https://www.himadri.dev/case-studies/agentic-market-research-platform) |
-| Systems and infra depth | [ML infrastructure rescue](https://www.himadri.dev/case-studies/ml-infra-rescue) |
-| ML product depth before the LLM wave | [Computer vision product systems](https://www.himadri.dev/case-studies/computer-vision-product-systems) |
-| How I think in interviews | [Interview Me](https://www.himadri.dev/interview-me) |
-| My engineering taste | [Production AI principles](https://www.himadri.dev/principles) |
+[![Portfolio](https://img.shields.io/badge/Portfolio-himadri.dev-111827?style=for-the-badge)](https://www.himadri.dev)
+[![Case Studies](https://img.shields.io/badge/Case_Studies-Production_AI-2563eb?style=for-the-badge)](https://www.himadri.dev/case-studies)
+[![Interview Me](https://img.shields.io/badge/Interview_Me-Source_Grounded-7c3aed?style=for-the-badge)](https://www.himadri.dev/interview-me)
+[![Resume](https://img.shields.io/badge/Resume-PDF-059669?style=for-the-badge)](https://www.himadri.dev/resume)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hmishra2250-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hmishra2250/)
 
-## Current direction
+## Systems I like building
 
-I am focused on senior AI engineering, AI platform engineering, LLM systems architecture, and founding AI engineer roles where the job is to make AI systems reliable enough for real users.
+```txt
+workflow -> explicit DAG -> sandboxed analysis -> judge checks -> charts -> Deck IR -> output
+```
 
-I care about:
+## Proof lanes
 
-- explicit execution graphs over free-form agent chaos
-- evals that test artifacts, not only prompts
-- model routing and unit economics as product architecture
-- source-grounded answers with safe refusal paths
-- inspectable intermediate representations for charts, decks, and analytical outputs
-- boring reliability work that makes the impressive part usable
+[![Agentic AI](https://img.shields.io/badge/Agentic_AI-DAGs_+_evals_+_Deck_IR-4f46e5?style=for-the-badge)](https://www.himadri.dev/case-studies/agentic-market-research-platform)
+[![ML Infra](https://img.shields.io/badge/ML_Infra-10x_cost_reduction-059669?style=for-the-badge)](https://www.himadri.dev/case-studies/ml-infra-rescue)
+[![Computer Vision](https://img.shields.io/badge/Computer_Vision-93%25_to_98%25_accuracy-b45309?style=for-the-badge)](https://www.himadri.dev/case-studies/computer-vision-product-systems)
+[![AR and Vision](https://img.shields.io/badge/AR_+_Vision-20%25_faster_ORB-0f766e?style=for-the-badge)](https://www.himadri.dev/case-studies/high-performance-ar-and-vision)
 
-## Public work
+## Core stack
 
-A few public repositories are older academic or utility projects, but the current direction is clearer on my portfolio:
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5c3ee8?style=for-the-badge&logo=opencv&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285f4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Highcharts](https://img.shields.io/badge/Highcharts-2563eb?style=for-the-badge)
 
-- [`himadri.dev`](https://github.com/hmishra2250/himadri.dev): evidence-first portfolio for production AI systems work.
-- [`handwrite-font-maker`](https://github.com/hmishra2250/handwrite-font-maker): converts handwriting specimen sheets into installable fonts.
-- Legacy ML and automation repos: useful history, not the full picture of the systems I build now.
+## GitHub signal
 
-## Contact
-
-- Portfolio: <https://www.himadri.dev>
-- Email: <himadri.jobhunt@gmail.com>
-- LinkedIn: <https://www.linkedin.com/in/hmishra2250/>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hmishra2250&theme=github_dark&hide_border=true&show_icons=true&include_all_commits=true)
