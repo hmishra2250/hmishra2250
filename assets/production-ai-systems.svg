@@ -1,45 +1,56 @@
-<svg width="1200" height="220" viewBox="0 0 1200 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Production AI systems loop</title>
-  <desc id="desc">A compact dark systems strip showing planning, DAG execution, sandboxed analysis, judge checks, and artifacts.</desc>
-  <rect width="1200" height="220" rx="24" fill="#080B12"/>
-  <rect x="1" y="1" width="1198" height="218" rx="23" stroke="#293241"/>
-  <circle cx="1080" cy="24" r="122" fill="#1D4ED8" opacity="0.16"/>
-  <circle cx="98" cy="210" r="132" fill="#7C3AED" opacity="0.14"/>
+<svg width="1200" height="220" viewBox="0 0 1200 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img">
+  <rect width="1200" height="220" rx="22" fill="#090D12"/>
+  <rect x="0.75" y="0.75" width="1198.5" height="218.5" rx="21.25" stroke="#303945" stroke-width="1.5"/>
 
-  <text x="64" y="54" fill="#94A3B8" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="15" letter-spacing="3.5">SYSTEM SHAPE</text>
-  <text x="64" y="89" fill="#F8FAFC" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="28" font-weight="800">LLM behavior inside reliable software boundaries</text>
-
-  <g font-family="SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace" font-size="18">
-    <rect x="64" y="121" width="140" height="42" rx="12" fill="#111827" stroke="#374151"/>
-    <text x="89" y="148" fill="#A7F3D0">plan</text>
-    <path d="M214 142H254" stroke="#64748B" stroke-width="2"/>
-    <path d="M246 135L254 142L246 149" stroke="#64748B" stroke-width="2"/>
-
-    <rect x="264" y="121" width="140" height="42" rx="12" fill="#111827" stroke="#374151"/>
-    <text x="289" y="148" fill="#BFDBFE">DAG</text>
-    <path d="M414 142H454" stroke="#64748B" stroke-width="2"/>
-    <path d="M446 135L454 142L446 149" stroke="#64748B" stroke-width="2"/>
-
-    <rect x="464" y="121" width="156" height="42" rx="12" fill="#111827" stroke="#374151"/>
-    <text x="488" y="148" fill="#DDD6FE">sandbox</text>
-    <path d="M630 142H670" stroke="#64748B" stroke-width="2"/>
-    <path d="M662 135L670 142L662 149" stroke="#64748B" stroke-width="2"/>
-
-    <rect x="680" y="121" width="140" height="42" rx="12" fill="#111827" stroke="#374151"/>
-    <text x="704" y="148" fill="#FDE68A">judge</text>
-    <path d="M830 142H870" stroke="#64748B" stroke-width="2"/>
-    <path d="M862 135L870 142L862 149" stroke="#64748B" stroke-width="2"/>
-
-    <rect x="880" y="121" width="180" height="42" rx="12" fill="#111827" stroke="#374151"/>
-    <text x="905" y="148" fill="#FCA5A5">artifact</text>
+  <g opacity="0.34" stroke="#1D2732">
+    <path d="M56 56H1144"/>
+    <path d="M56 112H1144"/>
+    <path d="M56 168H1144"/>
+    <path d="M184 28V194"/>
+    <path d="M384 28V194"/>
+    <path d="M584 28V194"/>
+    <path d="M784 28V194"/>
+    <path d="M984 28V194"/>
   </g>
 
-  <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="15" font-weight="700">
-    <rect x="64" y="179" width="165" height="28" rx="14" fill="#0F766E"/>
-    <text x="85" y="198" fill="#ECFDF5">days to under 1h</text>
-    <rect x="241" y="179" width="151" height="28" rx="14" fill="#1D4ED8"/>
-    <text x="262" y="198" fill="#EFF6FF">10x infra cost</text>
-    <rect x="404" y="179" width="143" height="28" rx="14" fill="#B45309"/>
-    <text x="426" y="198" fill="#FFF7ED">93% to 98%</text>
+  <g font-family="Geist Mono, SFMono-Regular, Consolas, monospace">
+    <text x="56" y="43" fill="#91A0AE" font-size="13" letter-spacing="3.2">REPRESENTATIVE SYSTEM TRACE</text>
+    <text x="56" y="78" fill="#E5E7EB" font-size="17">messy request enters, reliable artifact leaves</text>
+
+    <rect x="56" y="105" width="152" height="42" rx="11" fill="#0D151B" stroke="#334155"/>
+    <text x="80" y="132" fill="#D6DEE8" font-size="16">input</text>
+    <path d="M218 126H250" stroke="#6B7787" stroke-width="1.5"/><path d="M244 120L251 126L244 132" stroke="#6B7787" stroke-width="1.5"/>
+
+    <rect x="260" y="105" width="152" height="42" rx="11" fill="#0D151B" stroke="#334155"/>
+    <text x="284" y="132" fill="#D6DEE8" font-size="16">plan</text>
+    <path d="M422 126H454" stroke="#6B7787" stroke-width="1.5"/><path d="M448 120L455 126L448 132" stroke="#6B7787" stroke-width="1.5"/>
+
+    <rect x="464" y="105" width="152" height="42" rx="11" fill="#0A3028" stroke="#1F8A70"/>
+    <text x="488" y="132" fill="#A7F3D0" font-size="16">DAG</text>
+    <path d="M626 126H658" stroke="#6B7787" stroke-width="1.5"/><path d="M652 120L659 126L652 132" stroke="#6B7787" stroke-width="1.5"/>
+
+    <rect x="668" y="105" width="152" height="42" rx="11" fill="#0D151B" stroke="#334155"/>
+    <text x="692" y="132" fill="#D6DEE8" font-size="16">sandbox</text>
+    <path d="M830 126H862" stroke="#6B7787" stroke-width="1.5"/><path d="M856 120L863 126L856 132" stroke="#6B7787" stroke-width="1.5"/>
+
+    <rect x="872" y="105" width="122" height="42" rx="11" fill="#0D151B" stroke="#334155"/>
+    <text x="896" y="132" fill="#D6DEE8" font-size="16">judge</text>
+    <path d="M1004 126H1036" stroke="#6B7787" stroke-width="1.5"/><path d="M1030 120L1037 126L1030 132" stroke="#6B7787" stroke-width="1.5"/>
+
+    <rect x="1046" y="105" width="98" height="42" rx="11" fill="#0D151B" stroke="#334155"/>
+    <text x="1068" y="132" fill="#D6DEE8" font-size="16">deck</text>
+
+    <text x="56" y="180" fill="#91A0AE" font-size="13">guards:</text>
+    <text x="126" y="180" fill="#A7F3D0" font-size="13">source cards</text>
+    <text x="244" y="180" fill="#A7F3D0" font-size="13">cost controls</text>
+    <text x="374" y="180" fill="#A7F3D0" font-size="13">retry boundaries</text>
+    <text x="536" y="180" fill="#A7F3D0" font-size="13">artifact evals</text>
+    <text x="676" y="180" fill="#A7F3D0" font-size="13">sanitized public proof</text>
+  </g>
+
+  <g font-family="Geist Mono, SFMono-Regular, Consolas, monospace" font-size="12">
+    <rect x="910" y="33" width="234" height="42" rx="10" fill="#0A1515" stroke="#25483F"/>
+    <circle cx="934" cy="54" r="5" fill="#34D399"/>
+    <text x="951" y="58" fill="#B7C3CF">production constraints first</text>
   </g>
 </svg>
