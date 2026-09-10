@@ -1,33 +1,39 @@
-# Production AI systems, not AI demos
+# Himadri Mishra
 
-I am Himadri Mishra, a senior AI engineer building agentic workflows, LLM systems, ML infrastructure, search, and computer vision products.
+**Agent Experience (AX) · Agentic Systems · AI Product Engineering**
 
-> LLMs are one component. The hard part is execution, evaluation, recovery, cost, and artifacts that teams can trust.
+I build agentic applications—and the interfaces that make products easier for agents to use: discovery, tool use, evaluation, and recovery.
 
-<img src="./assets/production-ai-systems.svg" alt="Production AI system loop: plan, DAG, sandbox, judge, artifact" width="100%">
+[Explore Agent Experience](https://agentexperience.tech/) · [Public repositories](https://github.com/hmishra2250?tab=repositories) · [Connect on LinkedIn](https://www.linkedin.com/in/hmishra2250/)
 
-## What to click first
+<img src="./assets/agent-experience.svg" alt="Systems agents can use. Outcomes people can trust. Discover, connect, act, verify, recover." width="100%">
 
-- **Flagship AI systems case study:** [Agentic market research platform](https://www.himadri.dev/case-studies/agentic-market-research-platform), DAG execution, sandboxed code, judge verification, charts, Deck IR, and PPTX automation.
-- **Platform depth:** [ML infrastructure rescue](https://www.himadri.dev/case-studies/ml-infra-rescue), cost reduction, pod reduction, faster builds, and reliability boundaries.
-- **ML product depth:** [Computer vision product systems](https://www.himadri.dev/case-studies/computer-vision-product-systems), real-time CV under device, latency, and UX constraints.
-- **Interview surface:** [Interview me](https://www.himadri.dev/interview-me), source-grounded answers on architecture, tradeoffs, operating style, and risks.
+## Start here
 
-## Selected public work
+| Work | What you can explore |
+| --- | --- |
+| [Agent Experience](https://agentexperience.tech/) | My practical field guide to agent-facing products, with a working read-only MCP service. |
+| [Agent-Readiness Rubric](https://agentexperience.tech/insights/agent-readiness-rubric/) | A published v0.1 draft for reviewing discovery, action safety, recovery, and human control. |
+| [Awesome Agent Experience](https://github.com/hmishra2250/awesome-agent-experience) | Curated public resources on tool use, discovery, evaluation, and agent-facing interfaces. |
+| [Handwrite Font Maker](https://github.com/hmishra2250/handwrite-font-maker) | A personal project that turns handwriting specimen sheets into installable fonts. |
 
-- [`himadri.dev`](https://github.com/hmishra2250/himadri.dev), evidence-first portfolio for production AI systems work.
-- [`handwrite-font-maker`](https://github.com/hmishra2250/handwrite-font-maker), converts handwriting specimen sheets into installable fonts.
-- [`NTM-One-Shot-TF`](https://github.com/hmishra2250/NTM-One-Shot-TF), older one-shot learning implementation that still attracts ML interest.
-- [`Botnet-Detection-using-Machine-Learning`](https://github.com/hmishra2250/Botnet-Detection-using-Machine-Learning), older applied ML project with long-tail usage.
+## What I build
 
-## Engineering taste
+- **Agent-facing tools:** MCP, APIs, CLIs, reusable skills, onboarding, and actionable errors.
+- **Evaluation loops:** realistic tasks, trace evidence, failure analysis, and fix-and-rerun workflows.
+- **Agentic systems:** stateful orchestration, sandboxed execution, observability, and artifact verification.
 
-- Explicit execution graphs beat free-form agent chaos.
-- Artifact evals matter more than prompt evals alone.
-- Cost, latency, retries, and observability are product architecture.
-- Good AI products expose intermediate state without leaking private data.
-- Computer vision and infrastructure work keep my LLM systems grounded in real production constraints.
+My earlier work in ML infrastructure, search, and computer vision grounds these systems in reliability, latency, cost, and product constraints.
 
-## Links
+**Engineering principle:** evaluate the completed task and its evidence—not just a plausible response. Make permissions, state, recovery, and human handoffs explicit.
 
-[Portfolio](https://www.himadri.dev) · [Case studies](https://www.himadri.dev/case-studies) · [Resume](https://www.himadri.dev/resume) · [LinkedIn](https://www.linkedin.com/in/hmishra2250/) · [Email](mailto:himadri.jobhunt@gmail.com)
+<details>
+<summary>Use the field guide from an agent</summary>
+
+The public, read-only MCP endpoint is `https://agentexperience.tech/api/mcp`.
+
+It exposes `search_guides`, `get_guide`, `get_readiness_rubric`, and `get_glossary_term`. See the [discovery manifest](https://agentexperience.tech/.well-known/ard.json) for the published interface.
+
+</details>
+
+Some professional work is not public. I share reusable engineering patterns without disclosing client identities, private code, or internal results.
