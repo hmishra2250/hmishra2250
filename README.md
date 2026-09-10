@@ -8,7 +8,8 @@ I build AI applications and tools that agents can use. My focus is helping them 
 
 <picture>
   <source media="(max-width: 600px)" srcset="./assets/whole-task-mobile.svg">
-  <img src="./assets/whole-task.svg" alt="I make agents useful. Tools that work. Results you can check. A conceptual path through tools, checks, recovery, and human review." width="100%">
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/whole-task.svg">
+  <img src="./assets/whole-task.gif" alt="I make agents useful. Tools that work. Results you can check. A conceptual path through tools, checks, recovery, and human review." width="100%">
 </picture>
 
 ## Start here
