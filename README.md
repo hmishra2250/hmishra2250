@@ -2,11 +2,14 @@
 
 **Agent Experience (AX) · Agentic Systems · AI Product Engineering**
 
-I build agentic applications—and the interfaces that make products easier for agents to use: discovery, tool use, evaluation, and recovery.
+I build AI applications and tools that agents can use. My focus is helping them find the right tool, finish a task, and recover when something fails.
 
 [Explore Agent Experience](https://agentexperience.tech/) · [Public repositories](https://github.com/hmishra2250?tab=repositories) · [Connect on LinkedIn](https://www.linkedin.com/in/hmishra2250/)
 
-<img src="./assets/agent-experience.svg" alt="Himadri Mishra — Agent Experience and Agentic Systems. Actual GitHub activity: 5,907 contributions, May 1–September 9, 2026; snapshot September 10, 2026. Activity is not a measure of code quality." width="100%">
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/whole-task-mobile.svg">
+  <img src="./assets/whole-task.svg" alt="I make agents useful. Tools that work. Results you can check. A conceptual path through tools, checks, recovery, and human review." width="100%">
+</picture>
 
 ## Start here
 
@@ -25,7 +28,7 @@ I build agentic applications—and the interfaces that make products easier for 
 
 My earlier work in ML infrastructure, search, and computer vision grounds these systems in reliability, latency, cost, and product constraints.
 
-**Engineering principle:** evaluate the completed task and its evidence—not just a plausible response. Make permissions, state, recovery, and human handoffs explicit.
+**How I work:** check the completed task, not just whether the answer sounds right. Make access, failures, and the points that need a person clear.
 
 <details>
 <summary>Use the field guide from an agent</summary>
