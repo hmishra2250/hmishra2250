@@ -6,7 +6,7 @@ I build agentic applications—and the interfaces that make products easier for 
 
 [Explore Agent Experience](https://agentexperience.tech/) · [Public repositories](https://github.com/hmishra2250?tab=repositories) · [Connect on LinkedIn](https://www.linkedin.com/in/hmishra2250/)
 
-<img src="./assets/agent-experience.svg" alt="Systems agents can use. Outcomes people can trust. Discover, connect, act, verify, recover." width="100%">
+<img src="./assets/agent-experience.svg" alt="Himadri Mishra — Agent Experience and Agentic Systems. Actual GitHub activity: 5,907 contributions, May 1–September 9, 2026; snapshot September 10, 2026. Activity is not a measure of code quality." width="100%">
 
 ## Start here
 
