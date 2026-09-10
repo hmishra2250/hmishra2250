@@ -15,7 +15,7 @@ I build agentic applications—and the interfaces that make products easier for 
 | [Agent Experience](https://agentexperience.tech/) | My practical field guide to agent-facing products, with a working read-only MCP service. |
 | [Agent-Readiness Rubric](https://agentexperience.tech/insights/agent-readiness-rubric/) | A published v0.1 draft for reviewing discovery, action safety, recovery, and human control. |
 | [Awesome Agent Experience](https://github.com/hmishra2250/awesome-agent-experience) | Curated public resources on tool use, discovery, evaluation, and agent-facing interfaces. |
-| [Handwrite Font Maker](https://github.com/hmishra2250/handwrite-font-maker) | A personal project that turns handwriting specimen sheets into installable fonts. |
+| [Qwen on a consumer GPU](https://github.com/hmishra2250/qwen-3.6-35b-consumer-gpu) | Local-inference scripts, an optimization guide, and recorded results for a specific hardware/model setup. |
 
 ## What I build
 
