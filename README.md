@@ -1,6 +1,6 @@
 # Himadri Mishra
 
-I build agents, and the MCP servers, CLIs and SDKs they run on. AI engineer, 8+ years.
+I build agents, and the MCP servers, CLIs and SDKs they run on.
 
 [himadri.dev](https://www.himadri.dev/) · [Agent Experience field guide](https://agentexperience.tech/) · [LinkedIn](https://www.linkedin.com/in/hmishra2250/) · [X](https://x.com/hmishra2250)
 
